@@ -180,3 +180,9 @@ header div a .social {
     margin-left: 16px;
     height: 30px;
 }
+
+.textgit {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+}
